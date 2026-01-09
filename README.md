@@ -2,6 +2,8 @@
 
 # Hexo
 
+部署按钮：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lukePeavey/quotable)
+
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org).
 
 [Website](https://hexo.io) |
