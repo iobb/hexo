@@ -2,7 +2,16 @@
 
 # Hexo
 
-部署按钮：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lukePeavey/quotable)
+短链部署按钮：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/url-shortener)
+
+mx编辑部署按钮：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/liyupi/markdown-editor)
+
+天气查询部署按钮：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/chubin/wttr.in)
+
+像素画生成部署按钮：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/samdenty/ai-pixel-art)
+
+随机语录部署按钮：[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lukePeavey/quotable)
+
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org).
 
